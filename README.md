@@ -23,3 +23,4 @@ I would like to give credit to the Easy Tutorials YouTube channel for providing 
 ..
 
 ![screencapture-seeyashop-netlify-app-2023-06-15-16_13_34 (1)](https://github.com/ShubhamChoudharyShubh/seeyashop/assets/96586771/dd85e74b-eeef-45f2-a17e-0c5380539727)
+![lancha2](https://github.com/user-attachments/assets/5a31f38b-1e1d-45d4-af3f-638a407724b0)
